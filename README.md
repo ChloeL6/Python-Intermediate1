@@ -24,7 +24,7 @@ A set of functions
     * source venv/bin/activate
     * pip install -r requirements.txt
     * code .
-* After VS Code open, go to main.py file, and click the "execute cell" (Ctrl+Alt+Enter) on the top left of each code cell to run each functions
+* After VS Code open, go to main.py file, and click the "execute cell" (Ctrl+Alt+Enter) on the top left of each code cell to run the code
 
 
 ## Known Bugs
